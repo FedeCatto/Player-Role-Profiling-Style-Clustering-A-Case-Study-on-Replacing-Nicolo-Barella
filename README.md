@@ -67,6 +67,3 @@ This framework demonstrates how **data science can enhance traditional football 
 ---
 
 
-
-## Repository Structure
-
